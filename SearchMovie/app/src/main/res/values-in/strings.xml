@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="search_movie_title">Cari Film</string>
+    <string name="up_coming_title">Akan Datang</string>
+    <string name="now_playing_title">Sedang Tayang</string>
+    <string name="poster_movie">Poster Film</string>
+    <string name="button_search">ok</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="search_movie_nav">Cari Film</string>
+    <string name="detail_title">Detail Film</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="popularity">Populer</string>
+    <string name="rating">Penilaian</string>
+    <string name="vote_count">Jumlah Vote</string>
+    <string name="language">Bahasa</string>
+    <string name="release_on">Release Pada</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_favorite">Film Favorite Kamu</string>
+    <string name="favorite">favorite</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="empty_text">Kosong</string>
+    <string name="favorite_widget_text">Film Favorite</string>
+    <string name="notif_content_title">Katalog Film</string>
+
+    <string name="notif_subtext">sub text</string>
+    <string name="daily_reminder">Hai...Movie Catalogue kangen kamu!</string>
+    <string name="setting">Pengaturan</string>
+    <string name="release_remainder_title">Release Pengingat</string>
+    <string name="daily_remainder_title">Pengingat Harian</string>
+    <string name="desc_release">Pengingat saat film release</string>
+    <string name="desc_daily">Pengingat untuk menggunakan aplikasi</string>
+    <string name="release_now_notif">Release Sekarang</string>
+    <string name="no_release_title">Tidak ada film yang rilis hari ini</string>
+    <string name="daily_on">Pengingat Harian Hidup</string>
+    <string name="daily_off">Pengingat Harian Mati</string>
+    <string name="release_notif_on">Pengingat Release Hidup</string>
+    <string name="release_notif_off">Pengingat Release Mati</string>
+
+
+</resources>

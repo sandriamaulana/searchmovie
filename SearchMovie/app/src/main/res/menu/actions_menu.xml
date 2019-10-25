@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/now_playing_nav"
+        android:title="@string/now_playing"
+        android:icon="@drawable/ic_now_playing"/>
+    <item
+        android:id="@+id/up_coming_nav"
+        android:title="@string/up_coming"
+        android:icon="@drawable/ic_up_coming"/>
+    <item
+        android:id="@+id/search_nav"
+        android:title="@string/search_movie_nav"
+        android:icon="@drawable/ic_search"/>
+</menu>

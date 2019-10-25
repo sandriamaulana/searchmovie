@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="search_movie_title">Up Coming</string>
+    <string name="up_coming_title">Up Coming</string>
+    <string name="now_playing_title">Now Playing</string>
+    <string name="poster_movie">Poster Movie</string>
+    <string name="button_search">ok</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="now_playing">Now Playing</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="detail_title">Detail Movie</string>
+    <string name="search_movie_nav">Search Movie</string>
+    <string name="search_movie">Search Movies</string>
+    <string name="change_language">Change Language</string>
+    <string name="popularity">Popularity</string>
+    <string name="rating">Rating</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="language">Language</string>
+    <string name="release_on">Release on</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_favorite">Your Favorite Movies</string>
+    <string name="favorite">favorite</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Empty</string>
+    <string name="favorite_widget_text">Favorite Movie</string>
+    <string name="notif_content_title">Movie_Catalogue</string>
+
+    <string name="notif_subtext">sub text</string>
+    <string name="daily_reminder">Hai...Movie Catalogue is missing you!</string>
+    <string name="setting">Setting</string>
+    <string name="release_remainder_title">Release Remainder</string>
+    <string name="daily_remainder_title">Daily Remainder</string>
+    <string name="desc_release">Reminder for movie who release today</string>
+    <string name="desc_daily">Reminder you for using this app everyday</string>
+    <string name="release_now_notif">Release Now</string>
+    <string name="no_release_title">No Release Movie For Today</string>
+    <string name="daily_on">Daily Reminder Notification On</string>
+    <string name="daily_off">Daily Reminder Notification Off</string>
+    <string name="release_notif_on">Release Notification On</string>
+    <string name="release_notif_off">Release Notification Off</string>
+
+
+</resources>
